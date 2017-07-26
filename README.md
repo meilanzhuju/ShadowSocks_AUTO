@@ -1,0 +1,2 @@
+# ShadowSocks_AUTO
+shadowsocks_auto_login
